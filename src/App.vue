@@ -10,6 +10,7 @@
         <input
           class="colorPickerInput"
           type="text"
+
           :value="selectedColor ?? 'Fill'"
         />
         <img
